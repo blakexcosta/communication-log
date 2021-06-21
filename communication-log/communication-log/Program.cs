@@ -6,6 +6,10 @@ namespace communication_log
     {
         static void Main(string[] args)
         {
+            //Change background color
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.ForegroundColor = ConsoleColor.Black;
+
             Console.WriteLine("This is a simulated response from the Pilot");
 
             Console.WriteLine("simulated response from control");
