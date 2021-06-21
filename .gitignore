@@ -1,3 +1,6 @@
 communication-log/communication-log/bin/*
 communication-log/communication-log/obj/*
 communication-log/.vs/*
+communication-log/Backup/*
+communication-log/UpgradeLog.htm
+
