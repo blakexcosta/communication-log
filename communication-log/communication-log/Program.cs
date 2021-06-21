@@ -10,6 +10,8 @@ namespace communication_log
 
             Console.WriteLine("simulated response from control");
 
+            Console.WriteLine("Another response from pilot");
+
         }
     }
 }
