@@ -6,7 +6,8 @@ namespace communication_log
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is a simulated response from the Pilot");
+            
         }
     }
 }
